@@ -1,3 +1,10 @@
+# NOTE
+This repo is modified the previous script to install on newer Jetson TX2 platform which is built on L4T 32.0 using JetPack 4.2. 
+
+The following is the old instruction. The new instruction should follow the same procedure but with modifled scripts.
+
+--------------------
+
 # installRACECARJ
 <em>January, 2018</em>
 
